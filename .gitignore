@@ -1,0 +1,2 @@
+# Any build folder at the root of a pattern directory
+/*/build
